@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">CardPayUI</string>
+    <string name="app_title">Payment Master</string>
+    <string name="app_cardNumber">Card Number</string>
+    <string name="app_number">1234 5678 9012 3456</string>
+    <string name="app_validade">Month/Year</string>
+    <string name="app_editValidade">01/29</string>
+    <string name="app_txtCVV">CVV</string>
+    <string name="app_CVV">123</string>
+
+
+
 </resources>
